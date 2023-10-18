@@ -1,6 +1,11 @@
-# DisasterTech_BERT_Classification
+
+# Akbank Hackathon: DisasterTech - Our Contribution
+
+--- 
 
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/62bdd8065f304e8ea762287f/raHCZDUuHPckwwrKDRz-A.png)
+
+--- 
 
 ## 🎯 Introduction
 
@@ -99,7 +104,7 @@ predicted_class_name = predict(text)
 print(f"Predicted Class: {predicted_class_name}")
 ```
 
-## Expected Output:
+#### Expected Output:
 
 ```bash
 Predicted Class: Enkaz Kaldırma İhbarı
