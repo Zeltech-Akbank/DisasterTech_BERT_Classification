@@ -14,6 +14,8 @@ For an in-depth look at the hackathon, feel free to visit [Akbank Hackathon: Dis
 
 In this document, you can find detailed insights regarding our classification model's performance.
 
+🤗 [View Model on Hugging Face](https://huggingface.co/tarikkaankoc7/zeltech-akbank-hackathon)
+
 ## 🎯 Overall Accuracy
 
 - **Accuracy**: 📈 89.09%
