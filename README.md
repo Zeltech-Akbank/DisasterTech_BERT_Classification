@@ -123,3 +123,8 @@ For a step-by-step guide on how to utilize our model effectively, kindly refer t
 - **Tarık Kaan KOÇ** - [📧 Email](mailto:tarikkaan1koc@gmail.com)
 - **Alaaddin Erdinç DAL** - [📧 Email](mailto:aerdincdal@icloud.com)
 - **Anıl YAĞIZ** - [📧 Email](mailto:anill.yagiz@gmail.com)
+
+## 📜 License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details.
+
