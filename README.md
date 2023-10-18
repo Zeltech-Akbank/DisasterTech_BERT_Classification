@@ -10,15 +10,45 @@ In response to this call-to-action, our team stepped up, and this repository sta
 
 For an in-depth look at the hackathon, feel free to visit [Akbank Hackathon: DisasterTech](https://www.akbanklab.com/tr/akbank-hackathon-disastertech#section-4).
 
+---
+
+### 🌪️ **Disaster Management Classification Overview** 🚨
+
+
+📊 Our model, boasting a commendable accuracy of **89.09%**, is adept at swiftly classifying textual data into pivotal categories, proving invaluable during crisis management and relief efforts. 
+
+- 🏠 **Shelter Needs (Barınma İhtiyacı)**
+  
+- 🔌 **Electricity Source (Elektrik Kaynağı)**
+  
+- 💧 **Water Needs (Su İhtiyacı)**
+  
+- 🍲 **Food Needs (Yemek İhtiyacı)**
+
+- 🚧 **Debris Removal Alerts (Enkaz Kaldırma İhbarı)**
+  
+- 🚑 **Emergency Health Assistance Requests (Acil Sağlık Yardımı Talebi)**
+
+Our vigilant model doesn't stop there:
+
+- ❌ It discerns non-relevant alerts, categorizing them as **Unrelated Reports (Alakasız İhbar)**.
+  
+- ⚠️ It stays alert to potential threats, recognizing **Looting Incident Reports (Yağma Olay Bildirimi)**.
+
+Whether it's about ensuring 🚚 logistical support, 👕 clothing provisions, or 🔥 heating essentials, our model stands as a holistic solution for discerning and categorizing diverse requirements amidst disaster scenarios. 
+
+---
+
+
 ## 📊 Model Performance & Usage
 
 In this document, you can find detailed insights regarding our classification model's performance.
 
-🤗 [View Model on Hugging Face](https://huggingface.co/tarikkaankoc7/zeltech-akbank-hackathon)
+- 🤗 [View Model on Hugging Face](https://huggingface.co/tarikkaankoc7/zeltech-akbank-hackathon)
 
-## 🎯 Overall Accuracy
+#### 🎯 Overall Accuracy
 
-- **Accuracy**: 📈 89.09%
+- **Accuracy Metric**: 📈 89.09%
 
 ## 📝 Classification Report
 
