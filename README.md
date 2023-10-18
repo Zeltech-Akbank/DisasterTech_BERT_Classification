@@ -110,6 +110,13 @@ print(f"Predicted Class: {predicted_class_name}")
 Predicted Class: Enkaz Kaldırma İhbarı
 ```
 
+### 📘 **How to Use the Model?** 🚀
+
+For a step-by-step guide on how to utilize our model effectively, kindly refer to our example notebook:
+
+🔗 [Check out the DisasterTech_BERT_Classification Notebook!](https://github.com/Zeltech-Akbank/DisasterTech_BERT_Classification/blob/main/DisasterTech_BERT_Classification.ipynb)
+
+
 ## 🖋️ Authors
 
 - **Şeyma SARIGIL** - [📧 Email](mailto:seymasargil@gmail.com)
